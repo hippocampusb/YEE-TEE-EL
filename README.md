@@ -17,4 +17,4 @@ The datatypes for each column are as follows:
 The database schema I will be using will be the star schema to enable faster reads with less complicated joins.
 
 For anyone that comes across this, advice on how to organise my repo, code, and even documentation is much appreciated.
-Last updated: 8 Jun 2025
+Last updated: 10 Jun 2025
